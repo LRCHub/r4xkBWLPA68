@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Man and Woman",
+  "base_artist": "A.B.C-Z",
+  "createdAt": "2026-02-13T14:01:24.415074Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Man and Woman",
+      "artist": "T'Pau",
+      "has_synced": false,
+      "path": "select/01_Man_and_Woman_T'Pau.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Every Man And Woman Is A Star",
+      "artist": "The Cult",
+      "has_synced": true,
+      "path": "select/02_Every_Man_And_Woman_Is_A_Star_The_Cult.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Man And Woman (Daba Daba Dab) - Radio Edit",
+      "artist": "Tim Tim",
+      "has_synced": false,
+      "path": "select/03_Man_And_Woman_(Daba_Daba_Dab)_-_Radio_Edit_Tim_Tim.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Every Man And Woman Is A Star",
+      "artist": "The Cult",
+      "has_synced": true,
+      "path": "select/04_Every_Man_And_Woman_Is_A_Star_The_Cult.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bad Man And Woman (New Version)",
+      "artist": "Pato Banton",
+      "has_synced": false,
+      "path": "select/05_Bad_Man_And_Woman_(New_Version)_Pato_Banton.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Man and Woman",
+      "artist": "Mapache",
+      "has_synced": true,
+      "path": "select/06_Man_and_Woman_Mapache.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Man and Woman",
+      "artist": "CHAGE and ASKA",
+      "has_synced": false,
+      "path": "select/07_Man_and_Woman_CHAGE_and_ASKA.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "man and woman",
+      "artist": "Sole",
+      "has_synced": false,
+      "path": "select/08_man_and_woman_Sole.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Man and Woman",
+      "artist": "CHAGE & ASKA",
+      "has_synced": false,
+      "path": "select/09_Man_and_Woman_CHAGE_&_ASKA.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Man and Woman",
+      "artist": "Impact",
+      "has_synced": false,
+      "path": "select/10_Man_and_Woman_Impact.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Bad Man and Woman [New Version]",
+      "artist": "Pato Banton",
+      "has_synced": false,
+      "path": "select/11_Bad_Man_and_Woman_[New_Version]_Pato_Banton.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Man and Woman",
+      "artist": "A.B.C-Z",
+      "has_synced": false,
+      "path": "select/pl_01_Man_and_Woman_A.B.C-Z.txt"
+    }
+  ]
+}
